@@ -6,7 +6,7 @@
           alt="Vuetify Logo"
           class="shrink mr-2"
           contain
-          :src="require('./assets/doge.png')"
+          :src="require('./assets/seriouspic.jpg')"
           transition="scale-transition"
           width="40"
         />

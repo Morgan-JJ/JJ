@@ -6,7 +6,8 @@
         <v-expansion-panel-content eager>
           <h2>Research Interests</h2>
           <p class="font-weight-regular">
-            Engineering Management, Operation Research, Mechanical Design
+            Engineering Management, Operation Research, Mechanical System
+            Simulation
           </p>
           <h2>Education Background</h2>
           <p class="font-weight-regular">
